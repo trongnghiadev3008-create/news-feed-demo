@@ -5,6 +5,7 @@
 - **Họ và tên:** Lương Trọng Nghĩa
 - **MSSV:** 087206014598
 - **Chủ đề:** Chapter 11 – Design a News Feed System
+- **Link GitHub:** [trongnghiadev3008-create/news-feed-demo](https://github.com/trongnghiadev3008-create/news-feed-demo)
 
 ## Giới thiệu
 
