@@ -20,6 +20,12 @@ Demo sử dụng hai nhân vật: **Alice** đăng bài viết và **Bob** theo 
 
 Đây là **mô phỏng phục vụ học tập**, không phải mạng xã hội thực tế. Các service, cache, cơ sở dữ liệu đồ thị và hàng đợi đều được mô phỏng bằng state trong trình duyệt.
 
+## Video demo
+
+[▶ Xem video demo News Feed System](docs/videos/demo.mp4)
+
+Video minh họa quá trình thao tác và hoạt động của ứng dụng mô phỏng.
+
 ## Hình ảnh demo
 
 ### Trạng thái ban đầu
